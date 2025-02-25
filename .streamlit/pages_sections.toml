@@ -1,0 +1,29 @@
+[[pages]]
+path = "/workspaces/codespaces-blank/my-spotify-wrapped/my_pages/home.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+name = "Analysis options"
+icon = "🎯"
+is_section = true
+
+[[pages]]
+path = "/workspaces/codespaces-blank/my-spotify-wrapped/my_pages/release_year.py"
+name = "Release year"
+icon = "⏳"
+
+[[pages]]
+path = "/workspaces/codespaces-blank/my-spotify-wrapped/my_pages/most_listened_artists.py"
+name = "Most listened artists"
+icon = "🎤"
+
+[[pages]]
+path = "/workspaces/codespaces-blank/my-spotify-wrapped/my_pages/listening_habits.py"
+name = "Listening habits"
+icon = "🎧"
+
+[[pages]]
+path = "/workspaces/codespaces-blank/my-spotify-wrapped/my_pages/popularity.py"
+name = "Popularity"
+icon = "✨"
